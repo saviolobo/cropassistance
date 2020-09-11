@@ -7,13 +7,6 @@ Currently working in a Team of 3 Members in order to provide Price Prediction ba
 # Technology Used: 
 Open Source Facebook Prophet for Price Prediction.
 
-# Tools Used:
-Pandas
-Numpy
-Matplotlib
-Seaborn
-Facebook Prophet
-
 # Resources:
 https://facebook.github.io/prophet/docs/quick_start.html
 
