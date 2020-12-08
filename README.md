@@ -1,4 +1,4 @@
-# Crop Assistance Using Facebook Prophet
+# Crop Price Prediction Using Facebook Prophet
 Decision Making capability based on Agricultural Demand and Supply
 (Ongoing Project)
 
